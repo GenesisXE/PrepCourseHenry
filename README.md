@@ -1,1 +1,2 @@
-# Este repo es una prueba para el bootcamp henry 
+# PrepCouseHenry
+Esta es una prueba para el uso de git en el bootcamp Henry
